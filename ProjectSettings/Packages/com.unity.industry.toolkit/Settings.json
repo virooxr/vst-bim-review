@@ -1,0 +1,96 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ShowStatistics",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "OverridePrefabs",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "AddImportStampComponent",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "StoreAssetsInPrefabs",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Int32[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ActionIds",
+                "value": "{\"m_Value\":[81723,195748726,915430545,925539005,41840332,385238814,51366610,65146509,21279267,935567099,132059166,548006311,404620476,944641982,119871753,561784150,566782151,386939700,11954092,643180522,57241105,57248795,157968489,264601941,16549960,91540003,693670397,835978012,213915347,456440045,156420455,523752222,783075375,545105221,749128909,87441512,273604424,1526631,10191513,0,11954093,925546315,887416576,925546316,99541656,899643020,848484845,888851100,86594984,9841002,142499879,230347333,235363998,235363992,899553388,415461000,154316520,1697425464,155767537,645120725,994562210,647578605,16465110,505047536,142405631,315214542,572564654,57243405,219151513,14249905,1651980,219151512,451666,277054868,57241106,511763496,483983548,79878745,1455705145,283247540,1455705,58476964,57249905,298950553]}"
+            },
+            {
+                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ImportModeSelected",
+                "value": "{\"m_Value\":0}"
+            },
+            {
+                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ToolboxActionOpened",
+                "value": "{\"m_Value\":-1}"
+            },
+            {
+                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "SelectedDrawModeIndex",
+                "value": "{\"m_Value\":-1}"
+            },
+            {
+                "type": "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ToolboxActionsSelected",
+                "value": "{\"m_Value\":[1455705145,277054868,57249905,511763496,99541656,451666,14249905,195748726]}"
+            },
+            {
+                "type": "UnityEditor.PixyzPlugin4Unity.PixyzProjectSettings+VolatileDataSaveMode, Unity.Pixyz.Plugin4Unity.ProjectSettings.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "AutoVolatileSaveMode",
+                "value": "{\"m_Value\":0}"
+            },
+            {
+                "type": "UnityEditor.PixyzPlugin4Unity.PixyzProjectSettings+SaveTexturesEnum, Unity.Pixyz.Plugin4Unity.ProjectSettings.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "SaveTextures",
+                "value": "{\"m_Value\":1}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "PrefabFolder",
+                "value": "{\"m_Value\":\"3DModels\"}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomImportMaxSag",
+                "value": "{\"m_Value\":0.10000000149011612}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomImportSagRatio",
+                "value": "{\"m_Value\":0.00009999999747378752}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomSurfacicTolerance",
+                "value": "{\"m_Value\":3.0}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomLineicTolerance",
+                "value": "{\"m_Value\":-1.0}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomNormalTolerance",
+                "value": "{\"m_Value\":15.0}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "CustomPointCloudDensity",
+                "value": "{\"m_Value\":0.5}"
+            }
+        ]
+    }
+}

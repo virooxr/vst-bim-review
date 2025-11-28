@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f829ad3a44588b4fb9c5fbcd1b89d6f, type: 3}
+  m_Name: 2.1.3 - Hide VOLUME
+  m_EditorClassIdentifier: Unity.Pixyz.Plugin4Unity.Editor::UnityEditor.PixyzPlugin4Unity.RuleEngine.RuleSet
+  m_Rules:
+  - <IsCollapsed>k__BackingField: 0
+    m_IsEnabled: 1
+    m_Name: Rule 1
+    m_Blocks:
+    - m_SerializedNames:
+      - context
+      - recursive
+      m_SerializedValues:
+      - 0
+      - True
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 887416576
+    - m_SerializedNames:
+      - metadataFilter.propertyFilter.matchingMethod
+      - metadataFilter.propertyFilter.inputString
+      - metadataFilter.propertyFilter.caseSensitive
+      - metadataFilter.propertyFilter
+      - metadataFilter.valueFilter.matchingMethod
+      - metadataFilter.valueFilter.value
+      - metadataFilter.valueFilter.caseSensitive
+      - metadataFilter.valueFilter
+      - metadataFilter
+      - filterMode
+      - includeSubhierachy
+      m_SerializedValues:
+      - 0
+      - Family and Type
+      - False
+      - 3
+      - 0
+      - 'VOLUME : VOLUME'
+      - True
+      - 3
+      - 2
+      - 0
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 523752222
+    - m_SerializedNames:
+      - isEnabled
+      m_SerializedValues:
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 154316520

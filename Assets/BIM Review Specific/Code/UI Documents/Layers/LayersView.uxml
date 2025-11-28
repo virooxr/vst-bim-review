@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/UI%20Documents/LayersView.uss?fileID=7433441132597879392&amp;guid=76b4a28c99747cb46882bc2bb571ef60&amp;type=3#LayersView" />
+    <ui:VisualElement name="background" style="background-color: rgba(0, 0, 0, 0.24); white-space: normal; text-overflow: clip; -unity-text-align: upper-left; background-position-y: center; -unity-background-scale-mode: stretch-to-fill;">
+        <ui:Label text="Layer Visibility" style="font-size: 32px; -unity-font-style: normal;" />
+        <ui:VisualElement name="main-container" style="height: 456px; width: 380px;">
+            <ui:ListView focusable="false" name="layer-list" style="background-color: rgba(138, 138, 138, 0.67); padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; margin-right: 0; width: 369px; height: 449px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

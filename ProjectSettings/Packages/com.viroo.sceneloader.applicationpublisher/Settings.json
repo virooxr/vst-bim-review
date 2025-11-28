@@ -1,0 +1,21 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Viroo.SceneLoader.ApplicationPublisher.Editor.ApplicationSceneBuilderItemData[], Viroo.SceneLoader.ApplicationPublisher.Editor, Version=3.0.632.0, Culture=neutral, PublicKeyToken=null",
+                "key": "items",
+                "value": "{\"m_Value\":[{\"identifier\":\"8fda5422-c43d-4399-8747-07d830c53956\",\"title\":\"BIM Review Nordic Housing\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"c95c1f0ac5915d04aa179c9ab7744131\",\"type\":3},\"enabled\":true}]}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "compress",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "defaultItemIndex",
+                "value": "{\"m_Value\":0}"
+            }
+        ]
+    }
+}

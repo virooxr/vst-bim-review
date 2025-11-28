@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9983b0d4a46eca4fa72599e95d6c409, type: 3}
+  m_Name: _Prefabs Replacement Config
+  m_EditorClassIdentifier: Unity.Pixyz.Plugin4Unity.Actions::MultipleReplacementActionConfig
+  replacements:
+  - description: 'RPC Lehtipuu : PUU-5.Uusi.lehtipuu.pieni'
+    propertyName: Family and Type
+    propertyValue: 'RPC Lehtipuu : PUU-5.Uusi.lehtipuu.pieni'
+    replacement: {fileID: 4998619035203731341, guid: 31cba93c577db12459f2b4539ed87bba,
+      type: 3}
+  - description: 'RPC Lehtipuu : PUU-4.Uusi.lehtipuu.iso'
+    propertyName: Family and Type
+    propertyValue: 'RPC Lehtipuu : PUU-4.Uusi.lehtipuu.iso'
+    replacement: {fileID: 4040784609034041070, guid: 3732a1eb61421a54da0aaad55d0665f5,
+      type: 3}
+  - description: "RPC Lehtipuu : PUU-2.S\xE4ilytett\xE4v\xE4.vaahtera.6m"
+    propertyName: Family and Type
+    propertyValue: "RPC Lehtipuu : PUU-2.S\xE4ilytett\xE4v\xE4.vaahtera.6m"
+    replacement: {fileID: 5452660407937212953, guid: b6348b985826c0b439b090d314d34562,
+      type: 3}
+  - description: "RPC Lehtipuu : PUU-3.S\xE4ilytett\xE4v\xE4.verivaahtera.11m"
+    propertyName: Family and Type
+    propertyValue: "RPC Lehtipuu : PUU-3.S\xE4ilytett\xE4v\xE4.verivaahtera.11m"
+    replacement: {fileID: 1536480504923979153, guid: 6081e03e1a5f8a64c94c05db4e5130bb,
+      type: 3}
+  - description: "RPC Lehtipuu : PUU-1.S\xE4ilytett\xE4v\xE4.kuusi.15m"
+    propertyName: Family and Type
+    propertyValue: "RPC Lehtipuu : PUU-1.S\xE4ilytett\xE4v\xE4.kuusi.15m"
+    replacement: {fileID: 8023213729718082863, guid: cee51a7a287846a47b7b78a9649b1190,
+      type: 3}
+  - description: 'SIV02 : AVR400.1254L'
+    propertyName: Family and Type
+    propertyValue: 'SIV02 : AVR400.1254L'
+    replacement: {fileID: 2074416573448804305, guid: fc8aa5818392a1242a86a266e0c57e1b,
+      type: 3}
+  - description: 'UO-2 : UO-2.10+4x21'
+    propertyName: Family and Type
+    propertyValue: 'UO-2 : UO-2.10+4x21'
+    replacement: {fileID: 6113208919961212628, guid: c98b92ac0c183eb4ea670516bb02cbdd,
+      type: 3}
+  - description: 'UO-5 : UO-5.12x21o'
+    propertyName: Family and Type
+    propertyValue: 'UO-5 : UO-5.12x21o'
+    replacement: {fileID: 8520610938676859758, guid: c47932a8310a02246917c1de2ca9f23a,
+      type: 3}
+  - description: 'O-4 : O-4.10x21'
+    propertyName: Family and Type
+    propertyValue: 'O-4 : O-4.10x21'
+    replacement: {fileID: 4316658526459169137, guid: fd3e55f8efea6734399b0858ce453448,
+      type: 3}
+  - description: 'O-1 : O-1.10x21'
+    propertyName: Family and Type
+    propertyValue: 'O-1 : O-1.10x21'
+    replacement: {fileID: 4351987502998863554, guid: b1f4b0322a5061241a427263ea9304ed,
+      type: 3}
+  - description: 'UO-1 : UO-1.10x21'
+    propertyName: Family and Type
+    propertyValue: 'UO-1 : UO-1.10x21'
+    replacement: {fileID: 74602881870120006, guid: ca891ae6f5f8ac74a9d0da6ee81b3254,
+      type: 3}
+  - description: 'O-4 : O-4.9x21'
+    propertyName: Family and Type
+    propertyValue: 'O-4 : O-4.9x21'
+    replacement: {fileID: 867576774243426042, guid: 2a87181415379614f8db9d1a385baca3,
+      type: 3}
+  - description: 'O-4 : O-4.7x21'
+    propertyName: Family and Type
+    propertyValue: 'O-4 : O-4.7x21'
+    replacement: {fileID: 6973381880205572702, guid: c71a88576f84d7e48b98f2ccc7f4cff8,
+      type: 3}
+  - description: 'O-5 : O-5.9x21sauna'
+    propertyName: Family and Type
+    propertyValue: 'O-5 : O-5.9x21sauna'
+    replacement: {fileID: 5277185413660693390, guid: b615298ee4c0eb74d9c9b8d955d1d088,
+      type: 3}
+  - description: 'UO-5 : UO-5.12x23v'
+    propertyName: Family and Type
+    propertyValue: 'UO-5 : UO-5.12x23v'
+    replacement: {fileID: 4922516592293774578, guid: bf927d25b3250454280b3c1a367d4e79,
+      type: 3}

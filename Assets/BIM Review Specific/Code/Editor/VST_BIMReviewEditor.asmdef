@@ -1,0 +1,33 @@
+{
+    "name": "CustomCodeEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:67adc13b23dab834ca7e2e8df49be19e",
+        "GUID:d447e72ab2a99894ebe238699c82f289",
+        "GUID:2cbc8b479e2c7a24e8625888cf8b42e2",
+        "GUID:8ee01c5017a21274689c96849b7b377b",
+        "GUID:e8e76d78d27267c449a61bfa2ebe88c8",
+        "GUID:51fe84135a31807499b07f35b3baa968",
+        "GUID:bb9dbada475fb054b9fe91e915c7f994",
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:ea715009a4efd4c6cbc85be3ae097dd3",
+        "GUID:315d634a9ac6d460a9515f5a56be6311"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.industry.toolkit",
+            "expression": "[3.2.0]",
+            "define": "PIXYZ_PLUGIN_FOR_UNITY"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f829ad3a44588b4fb9c5fbcd1b89d6f, type: 3}
+  m_Name: 2.1.1 - Hide Sealevel TopoSolids
+  m_EditorClassIdentifier: Unity.Pixyz.Plugin4Unity.Editor::UnityEditor.PixyzPlugin4Unity.RuleEngine.RuleSet
+  m_Rules:
+  - <IsCollapsed>k__BackingField: 0
+    m_IsEnabled: 1
+    m_Name: Rule 1
+    m_Blocks:
+    - m_SerializedNames:
+      - context
+      - recursive
+      m_SerializedValues:
+      - 0
+      - True
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 887416576
+    - m_SerializedNames:
+      - nameFilter.filterStringConstraint.matchingMethod
+      - nameFilter.filterStringConstraint.inputString
+      - nameFilter.filterStringConstraint.caseSensitive
+      - nameFilter.filterStringConstraint
+      - nameFilter
+      - filterMode
+      - includeSubhierachy
+      m_SerializedValues:
+      - 0
+      - ARK_NordicLCA_Housing_Terrain-Concrete_BuildingPermit.rvt
+      - True
+      - 3
+      - 1
+      - 0
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 783075375
+    - m_SerializedNames:
+      - recursive
+      - keepParentsInSelection
+      m_SerializedValues:
+      - True
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 925546315
+    - m_SerializedNames:
+      - nameFilter.filterStringConstraint.matchingMethod
+      - nameFilter.filterStringConstraint.inputString
+      - nameFilter.filterStringConstraint.caseSensitive
+      - nameFilter.filterStringConstraint
+      - nameFilter
+      - filterMode
+      - includeSubhierachy
+      m_SerializedValues:
+      - 0
+      - Sea level
+      - True
+      - 3
+      - 1
+      - 0
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 783075375
+    - m_SerializedNames:
+      - isEnabled
+      m_SerializedValues:
+      - False
+      <IsEnabled>k__BackingField: 1
+      <ActionId>k__BackingField: 154316520

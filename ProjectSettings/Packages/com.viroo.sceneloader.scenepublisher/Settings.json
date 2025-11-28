@@ -1,0 +1,11 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Viroo.SceneLoader.ScenePublisher.Unity.Editor.AssetBundleBuilderItemData[], Viroo.SceneLoader.ScenePublisher.Editor, Version=3.0.632.0, Culture=neutral, PublicKeyToken=null",
+                "key": "items",
+                "value": "{\"m_Value\":[]}"
+            }
+        ]
+    }
+}

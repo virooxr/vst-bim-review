@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Scroll Wheel Input",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "f87b94d7-4581-4360-b2fd-7723f068b44c",
+            "actions": [
+                {
+                    "name": "Scroll Wheel",
+                    "type": "Button",
+                    "id": "6eaa328a-d2e9-4e02-aa40-a6b79b9b5914",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "651fa8f4-91ae-47cd-995d-05184a348013",
+                    "path": "<Mouse>/scroll",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Scroll Wheel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

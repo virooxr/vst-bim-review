@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 383914d3a27c7384aba3981b475a4658, type: 3}
+  m_Name: ELE_NordicLCA_Housing_Concrete_BuildingPermit
+  m_EditorClassIdentifier: Unity.Pixyz.Plugin4Unity.Editor::UnityEditor.PixyzPlugin4Unity.CADImporterScriptableObject
+  <FilePath>k__BackingField: C:\Users\sbarrera\Downloads\HVAC\HVAC\MAGICAD-FOR-REVIT\ELE_NordicLCA_Housing_Concrete_BuildingPermit.rvt
+  m_Prefab: {fileID: 5128063859369440221, guid: 92227baa8c7def240abc95bcc907ee49,
+    type: 3}
+  m_Scene: {fileID: 0}
+  <ImportMode>k__BackingField: 0
+  <ImportAllFilesInFolder>k__BackingField: 0
+  <PreferAlternativeImporters>k__BackingField: 0
+  <Scale>k__BackingField: 0.001
+  <Orientation>k__BackingField: 0
+  <IsLeftHanded>k__BackingField: 0
+  <IsZUp>k__BackingField: 0
+  <AvoidNegativeScale>k__BackingField: 1
+  <PreserveHierarchy>k__BackingField: 1
+  <RuleSet>k__BackingField: {fileID: 11400000, guid: ab6d683c50c804844bbeb53ca2a71296,
+    type: 2}
+  <ImportMetadata>k__BackingField: 1
+  <ImportPatchBoundaries>k__BackingField: 0
+  <ImportLines>k__BackingField: 0
+  <ImportPoints>k__BackingField: 0
+  <ImportNestedPrefabs>k__BackingField: 0
+  <ImportAnimations>k__BackingField: 0
+  <ImportVariants>k__BackingField: 0
+  <ImportPMI>k__BackingField: 0
+  <StitchPatches>k__BackingField: 0
+  <Use16BitsBuffers>k__BackingField: 0
+  <ReorientFaces>k__BackingField: 0
+  <RepairInstances>k__BackingField: 0
+  <MeshQuality>k__BackingField: 0
+  <CreateLightmapUVs>k__BackingField: 0
+  <LightmapResolution>k__BackingField: 1024
+  <LightmapPadding>k__BackingField: 4
+  <CreateUVs>k__BackingField: 0
+  <UVSize>k__BackingField: 1
+  <LODGenerator>k__BackingField:
+    <Rules>k__BackingField: []
+    <CompressTextures>k__BackingField: 1
+    <GPUBaking>k__BackingField: 0
+    <BakingOffset>k__BackingField: 0
+    <BakingUpSampling>k__BackingField: 2
+    <AutoComputeThresholds>k__BackingField: 0
+    <FilterTransparentObjects>k__BackingField: 1
+    <SaveAssets>k__BackingField: 1
+    <SaveAssetsPath>k__BackingField: Assets/LODs
+    <Assets>k__BackingField: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,41 @@
+VisualElement {
+}
+
+.button {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-size: 100% 100%;
+    background-image: none;
+    background-color: rgb(113, 113, 113);
+    color: rgb(0, 0, 0);
+}
+
+.button:hover {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(107, 176, 176);
+    color: rgb(233, 255, 121);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    transition-duration: 1s;
+}
+
+.button:active {
+    border-left-color: rgb(228, 255, 0);
+    border-right-color: rgb(228, 255, 0);
+    border-top-color: rgb(228, 255, 0);
+    border-bottom-color: rgb(228, 255, 0);
+    transition-duration: 1s;
+}

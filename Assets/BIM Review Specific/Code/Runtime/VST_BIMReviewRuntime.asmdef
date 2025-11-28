@@ -1,0 +1,30 @@
+{
+    "name": "CustomCode",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30ea38a2c9d551a46a0b7786493bd1c7",
+        "GUID:d7550811d4f8c494dba4f662f0199825",
+        "GUID:564079ac9a867ee408a38d195c7a05c6",
+        "GUID:be904dc094c5abc42b586e3ba71a072e",
+        "GUID:21b0c8d1703a94250bfac916590cea4f",
+        "GUID:ea715009a4efd4c6cbc85be3ae097dd3",
+        "GUID:315d634a9ac6d460a9515f5a56be6311",
+        "GUID:55208cffab3211f4bb4f32c8197ddb3b",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:4523cdcf649dbf94c9aa3c7c2387e1ee",
+        "GUID:3b570a5146f9d4f0fa107ed4559471a3",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:d447e72ab2a99894ebe238699c82f289",
+        "GUID:8ee01c5017a21274689c96849b7b377b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

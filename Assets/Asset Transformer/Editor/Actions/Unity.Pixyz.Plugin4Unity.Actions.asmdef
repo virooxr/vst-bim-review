@@ -1,0 +1,30 @@
+{
+    "name": "Unity.Pixyz.Plugin4Unity.Actions",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Pixyz.Plugin4Unity.Editor",
+        "Unity.Pixyz.UnitySDK.Editor",
+        "Unity.Pixyz.SDKPlus.Editor",
+        "Unity.Pixyz.Plugin4Unity.Utilities.Editor",
+        "Unity.Pixyz.UnitySDK.Runtime",
+        "CustomCode",
+        "CustomCodeEditor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.industry.toolkit",
+            "expression": "[3.2.0]",
+            "define": "PIXYZ_PLUGIN_FOR_UNITY"
+        }
+    ],
+    "noEngineReferences": false
+}

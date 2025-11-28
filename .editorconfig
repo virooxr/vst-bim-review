@@ -1,0 +1,14 @@
+# Source: https://github.com/dotnet/runtime/blob/main/.editorconfig
+
+# editorconfig.org
+
+# top-most EditorConfig file
+root = false
+
+[*.cs]
+
+# internal and private fields should be _camelCase
+dotnet_naming_style.camel_case_underscore_style.required_prefix =
+
+[*.{asset,prefab,unity}]
+trim_trailing_whitespace = false

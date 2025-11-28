@@ -1,0 +1,17 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/BIM%20Review%20Specific/Code/UI%20Documents/Test/test.uss?fileID=7433441132597879392&amp;guid=9bb7d088b482d4d4a900019100a66b70&amp;type=3#test" />
+    <ui:TabView>
+        <ui:Tab label="Tab">
+            <ui:VisualElement name="ButtonContainer" style="flex-grow: 0; flex-direction: column; align-content: center; justify-content: center; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-left-radius: 7px; border-top-right-radius: 7px; border-bottom-right-radius: 7px; border-bottom-left-radius: 7px; flex-shrink: 0; padding-top: 9px; padding-right: 9px; padding-bottom: 9px; padding-left: 9px; background-color: rgb(255, 255, 255);">
+                <ui:ScrollView style="align-self: auto;">
+                    <ui:Button text="Button" class="button" />
+                    <ui:Button text="Button" class="button" />
+                    <ui:RadioButtonGroup label="Radio Button Group" style="flex-grow: 0; flex-direction: column; flex-shrink: 0; width: auto; align-content: flex-start; align-self: stretch; min-width: auto;">
+                        <ui:RadioButton label="Radio Button" style="justify-content: flex-start; flex-direction: row;" />
+                    </ui:RadioButtonGroup>
+                </ui:ScrollView>
+            </ui:VisualElement>
+        </ui:Tab>
+        <ui:Tab label="Tab" />
+    </ui:TabView>
+</ui:UXML>

@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/BIM%20Review%20Specific/Code/UI%20Documents/Visibility%20Sets/VisibilitySetsListEntry.uss?fileID=7433441132597879392&amp;guid=be79aaf219ef17047b86d5db8d951d8c&amp;type=3#VisibilitySetsListEntry" />
+    <ui:VisualElement name="list-entry" style="flex-direction: row; align-items: center; align-content: auto; flex-wrap: nowrap; justify-content: space-between; padding-left: 10px; padding-right: 8px; background-color: rgb(121, 121, 148);">
+        <ui:Label name="layer-name" text="Label" display-tooltip-when-elided="true" style="-unity-text-align: upper-left; align-content: auto;" />
+        <ui:Toggle name="layer-toggle" />
+    </ui:VisualElement>
+</ui:UXML>
