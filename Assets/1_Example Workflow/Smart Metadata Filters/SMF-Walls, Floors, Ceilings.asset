@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21194e3c9fd0dad4d89b5052838db8ee, type: 3}
   m_Name: SMF-Walls, Floors, Ceilings
   m_EditorClassIdentifier: CustomCode::SmartMetadataFilter
-  label: SMF - Selection
+  label: SMF - Walls, Floors and Ceilings
   metaDataInclusionSets:
   - mustHave:
     - PropertyName: Category

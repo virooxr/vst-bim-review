@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21194e3c9fd0dad4d89b5052838db8ee, type: 3}
   m_Name: SMF-Level_01
   m_EditorClassIdentifier: CustomCode::SmartMetadataFilter
-  label: SMF - Selection
+  label: SMF - Level_01
   metaDataInclusionSets:
   - mustHave:
     - PropertyName: Category

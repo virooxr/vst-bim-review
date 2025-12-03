@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 21194e3c9fd0dad4d89b5052838db8ee, type: 3}
-  m_Name: SMF-All VIROO Floors
+  m_Name: SMF-Example
   m_EditorClassIdentifier: CustomCode::SmartMetadataFilter
-  label: SMF - All Viroo Floors
+  label: SMF - Example
   metaDataInclusionSets:
   - mustHave:
     - PropertyName: Category
       PropertyValue: Floors
-    excludeThoseHaving: []
+    excludeThoseHaving:
+    - PropertyName: Sub-Division/Material
+      PropertyValue: M13.210 Hiekka, sora
   - mustHave:
     - PropertyName: Category
       PropertyValue: Stairs
-    excludeThoseHaving: []
-  - mustHave:
-    - PropertyName: Category
-      PropertyValue: Toposolid
+    - PropertyName: Constraints/Top Level
+      PropertyValue: Level_01
     excludeThoseHaving: []
