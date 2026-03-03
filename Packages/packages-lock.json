@@ -464,7 +464,7 @@
       "url": "https://packages.unity.com"
     },
     "com.viroo": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 3,
       "source": "registry",
       "dependencies": {
@@ -494,7 +494,7 @@
         "com.virtualware.localization.default": "2.2.8",
         "com.virtualware.localization.resx": "2.2.8",
         "com.virtualware.localization.textmeshpro": "2.2.8",
-        "com.virtualware.networking": "3.0.632",
+        "com.virtualware.networking": "3.0.661",
         "com.virtualware.pooling": "2.2.8",
         "com.virtualware.rest.net": "2.2.8",
         "com.virtualware.serialization.json": "2.2.8",
@@ -509,67 +509,67 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.interactions": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.timeline": "1.8.8",
-        "com.viroo": "3.0.632"
+        "com.viroo": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.postprocessing": "3.4.0",
-        "com.viroo.sceneloader.scenecontext": "3.0.632",
-        "com.viroo.sceneloader.scenepublisher": "3.0.632",
-        "com.viroo.interactions": "3.0.632",
-        "com.viroo.vivox": "3.0.632",
+        "com.viroo.sceneloader.scenecontext": "3.0.661",
+        "com.viroo.sceneloader.scenepublisher": "3.0.661",
+        "com.viroo.interactions": "3.0.661",
+        "com.viroo.vivox": "3.0.661",
         "com.virtualware.download": "2.2.8",
         "com.virtualware.download.unity": "2.2.8"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.applicationpublisher": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.viroo.sceneloader.scenepublisher": "3.0.632"
+        "com.viroo.sceneloader.scenepublisher": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.bootstrap.mock": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.viroo.interactions": "3.0.632",
-        "com.viroo.tracking.nmerso": "3.0.632",
-        "com.viroo.sceneloader.scenecontext": "3.0.632"
+        "com.viroo.interactions": "3.0.661",
+        "com.viroo.tracking.nmerso": "3.0.661",
+        "com.viroo.sceneloader.scenecontext": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.scenecontext": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 2,
       "source": "registry",
       "dependencies": {
-        "com.viroo": "3.0.632",
+        "com.viroo": "3.0.661",
         "com.viroo.shared.communication.sceneloader.unity": "3.0.627"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.sceneloader.scenepublisher": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.settings-manager": "2.1.0",
-        "com.viroo.sceneloader.scenecontext": "3.0.632",
+        "com.viroo.sceneloader.scenecontext": "3.0.661",
         "org.nuget.sharpyaml": "2.1.2"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
@@ -927,17 +927,17 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.studio": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ai.navigation": "1.1.6",
         "com.unity.cinemachine": "2.10.3",
         "com.unity.postprocessing": "3.4.0",
-        "com.viroo.sceneloader": "3.0.632",
-        "com.viroo.sceneloader.applicationpublisher": "3.0.632",
-        "com.viroo.sceneloader.bootstrap.mock": "3.0.632",
-        "com.viroo.sceneloader.scenepublisher": "3.0.632"
+        "com.viroo.sceneloader": "3.0.661",
+        "com.viroo.sceneloader.applicationpublisher": "3.0.661",
+        "com.viroo.sceneloader.bootstrap.mock": "3.0.661",
+        "com.viroo.sceneloader.scenepublisher": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
@@ -952,42 +952,42 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.studio.visualscripting": {
-      "version": "3.0.522",
+      "version": "3.0.661",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.viroo.visualscripting": "3.0.522"
+        "com.viroo.visualscripting": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.tracking.nmerso": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.nmerso": "2.4.561",
-        "com.viroo": "3.0.632",
+        "com.viroo": "3.0.661",
         "com.viroo.shared.arena.nmerso": "3.0.627"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.visualscripting": {
-      "version": "3.0.522",
+      "version": "3.0.661",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.visualscripting": "1.9.7",
-        "com.viroo.interactions": "3.0.522"
+        "com.viroo.interactions": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
     "com.viroo.vivox": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.services.vivox": "16.6.0",
-        "com.viroo": "3.0.632"
+        "com.viroo": "3.0.661"
       },
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo@Release/npm/registry"
     },
@@ -1184,7 +1184,7 @@
       "url": "https://pkgs.dev.azure.com/virtualwaregroup/be03201a-56db-4141-a519-e8a5ad855787/_packaging/Viroo/npm/registry"
     },
     "com.virtualware.networking": {
-      "version": "3.0.632",
+      "version": "3.0.661",
       "depth": 4,
       "source": "registry",
       "dependencies": {

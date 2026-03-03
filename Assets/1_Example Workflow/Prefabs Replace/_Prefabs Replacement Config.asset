@@ -88,3 +88,13 @@ MonoBehaviour:
     propertyValue: 'UO-5 : UO-5.12x23v'
     replacement: {fileID: 4922516592293774578, guid: bf927d25b3250454280b3c1a367d4e79,
       type: 3}
+  - description: 'PK-1 : PK-1.800'
+    propertyName: Family and Type
+    propertyValue: 'PK-1 : PK-1.800'
+    replacement: {fileID: 2118880359391936023, guid: 24b28a06e865b5e43b3e7c56b5ebbf04,
+      type: 3}
+  - description: 'T600129 : T600129 Penkki'
+    propertyName: Family and Type
+    propertyValue: 'T600129 : T600129 Penkki'
+    replacement: {fileID: 7157438891540758539, guid: 4519385733da5f94f9e65546df2ab5ad,
+      type: 3}

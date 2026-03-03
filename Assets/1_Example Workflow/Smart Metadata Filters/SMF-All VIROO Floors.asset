@@ -26,3 +26,7 @@ MonoBehaviour:
     - PropertyName: Category
       PropertyValue: Toposolid
     excludeThoseHaving: []
+  - mustHave:
+    - PropertyName: Category
+      PropertyValue: Walls
+    excludeThoseHaving: []

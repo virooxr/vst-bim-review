@@ -44,7 +44,7 @@
             {
                 "type": "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "ToolboxActionsSelected",
-                "value": "{\"m_Value\":[1455705145,277054868,57249905,511763496,99541656,451666,14249905,195748726]}"
+                "value": "{\"m_Value\":[1455705145,277054868,57249905,91540003,99541656,451666,14249905,195748726]}"
             },
             {
                 "type": "UnityEditor.PixyzPlugin4Unity.PixyzProjectSettings+VolatileDataSaveMode, Unity.Pixyz.Plugin4Unity.ProjectSettings.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
